@@ -20,7 +20,7 @@ namespace FirstAspWebFormExample
             string first = TxtFirst.Text; //TxtFirst is Id of first textbox
             string last = TxtLast.Text; //TxtLast is Id of first textbox
 
-            string result = "Hello there " + first + " " + last;
+            string result = "Hello there! " + first + " " + last + ".";
 
             //put result in label
             LblResult.Text = result;

@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstAspWebFormExample", "F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFormattingExample", "SimpleFormatting\SimpleFormattingExample.csproj", "{AD291180-D547-48EB-A7C5-218BCD8E23CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiPageExercise", "MultiPageExercise\MultiPageExercise.csproj", "{4A12A33B-F893-469F-B71B-271B4114BF12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{AD291180-D547-48EB-A7C5-218BCD8E23CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD291180-D547-48EB-A7C5-218BCD8E23CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD291180-D547-48EB-A7C5-218BCD8E23CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A12A33B-F893-469F-B71B-271B4114BF12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A12A33B-F893-469F-B71B-271B4114BF12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A12A33B-F893-469F-B71B-271B4114BF12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A12A33B-F893-469F-B71B-271B4114BF12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

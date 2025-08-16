@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiPageExercise", "MultiP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWeatherSiteExercise", "MyWeatherSiteExercise\MyWeatherSiteExercise.csproj", "{7EB9DE6D-7627-41C4-8A6D-8C47858E7E32}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerControls_EmployeeInfoExample", "ServerControls_EmployeeInfoExample\ServerControls_EmployeeInfoExample.csproj", "{632346D9-CB0F-433F-A895-94FE974015E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{7EB9DE6D-7627-41C4-8A6D-8C47858E7E32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EB9DE6D-7627-41C4-8A6D-8C47858E7E32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EB9DE6D-7627-41C4-8A6D-8C47858E7E32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{632346D9-CB0F-433F-A895-94FE974015E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{632346D9-CB0F-433F-A895-94FE974015E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{632346D9-CB0F-433F-A895-94FE974015E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{632346D9-CB0F-433F-A895-94FE974015E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

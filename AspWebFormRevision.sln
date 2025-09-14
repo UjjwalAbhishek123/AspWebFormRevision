@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerControls_Example3_Piz
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FieldValidators_Example", "FieldValidators_Example\FieldValidators_Example.csproj", "{75FF90C4-E00B-447C-AD11-D49E9710E829}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathematicalWebApplcn_Examples", "MathematicalWebApplcn_Examples\MathematicalWebApplcn_Examples.csproj", "{5136F309-2FD6-48B3-B8C6-F596ECE07309}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{75FF90C4-E00B-447C-AD11-D49E9710E829}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75FF90C4-E00B-447C-AD11-D49E9710E829}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75FF90C4-E00B-447C-AD11-D49E9710E829}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5136F309-2FD6-48B3-B8C6-F596ECE07309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5136F309-2FD6-48B3-B8C6-F596ECE07309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5136F309-2FD6-48B3-B8C6-F596ECE07309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5136F309-2FD6-48B3-B8C6-F596ECE07309}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

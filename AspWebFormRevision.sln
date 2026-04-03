@@ -3,21 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.FirstAspWebFormExample", "FirstAspWebFormExample\1.FirstAspWebFormExample.csproj", "{298D0D01-DB27-4B2B-9367-0718B489F15C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstAspWebFormExample", "FirstAspWebFormExample\FirstAspWebFormExample.csproj", "{298D0D01-DB27-4B2B-9367-0718B489F15C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.MultiPageExercise", "MultiPageExercise\2.MultiPageExercise.csproj", "{4A12A33B-F893-469F-B71B-271B4114BF12}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiPageExercise", "MultiPageExercise\MultiPageExercise.csproj", "{4A12A33B-F893-469F-B71B-271B4114BF12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.MyWeatherSiteExercise", "MyWeatherSiteExercise\3.MyWeatherSiteExercise.csproj", "{7EB9DE6D-7627-41C4-8A6D-8C47858E7E32}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWeatherSiteExercise", "MyWeatherSiteExercise\MyWeatherSiteExercise.csproj", "{7EB9DE6D-7627-41C4-8A6D-8C47858E7E32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.ServerControls_EmployeeInfoExample", "ServerControls_EmployeeInfoExample\4.ServerControls_EmployeeInfoExample.csproj", "{632346D9-CB0F-433F-A895-94FE974015E3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerControls_EmployeeInfoExample", "ServerControls_EmployeeInfoExample\ServerControls_EmployeeInfoExample.csproj", "{632346D9-CB0F-433F-A895-94FE974015E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.ServerControls_ConditionalsExample", "ServerControls_ConditionalsExample\5.ServerControls_ConditionalsExample.csproj", "{D6F43196-E148-49CA-AB9E-67665B5E81B6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerControls_ConditionalsExample", "ServerControls_ConditionalsExample\ServerControls_ConditionalsExample.csproj", "{D6F43196-E148-49CA-AB9E-67665B5E81B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.ServerControls_Example3_PizzaStore", "ServerControls_Example3\6.ServerControls_Example3_PizzaStore.csproj", "{85A3CAB0-3C5D-412E-A1E1-1D4A652F69D2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerControls_Example3_PizzaStore", "ServerControls_Example3\ServerControls_Example3_PizzaStore.csproj", "{85A3CAB0-3C5D-412E-A1E1-1D4A652F69D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.FieldValidators_Example", "FieldValidators_Example\7.FieldValidators_Example.csproj", "{75FF90C4-E00B-447C-AD11-D49E9710E829}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FieldValidators_Example", "FieldValidators_Example\FieldValidators_Example.csproj", "{75FF90C4-E00B-447C-AD11-D49E9710E829}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.MathematicalWebApplcn_Examples", "MathematicalWebApplcn_Examples\8.MathematicalWebApplcn_Examples.csproj", "{5136F309-2FD6-48B3-B8C6-F596ECE07309}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathematicalWebApplcn_Examples", "MathematicalWebApplcn_Examples\MathematicalWebApplcn_Examples.csproj", "{5136F309-2FD6-48B3-B8C6-F596ECE07309}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

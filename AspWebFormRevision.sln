@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathematicalWebApplcn_Examp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostBackExample", "PostBackExample\PostBackExample.csproj", "{7B65A59B-05AB-4B2A-84B7-B62E621D6E9E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostBackExampleDemo2", "PostBackExampleDemo2\PostBackExampleDemo2.csproj", "{234CBCF8-0F69-4C3F-8020-FF9330A887E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{7B65A59B-05AB-4B2A-84B7-B62E621D6E9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B65A59B-05AB-4B2A-84B7-B62E621D6E9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B65A59B-05AB-4B2A-84B7-B62E621D6E9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{234CBCF8-0F69-4C3F-8020-FF9330A887E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{234CBCF8-0F69-4C3F-8020-FF9330A887E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{234CBCF8-0F69-4C3F-8020-FF9330A887E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{234CBCF8-0F69-4C3F-8020-FF9330A887E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
